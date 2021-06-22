@@ -1,7 +1,17 @@
+.navigation_svg {
+    margin-top: 47px;
+}
+
 .navigation_links {
     ul {
+        margin-top: 40px;
+        display: flex;
+        justify-content: space-evenly;
+        list-style: none;
         li {
-            color: black;
+            a {
+                color: black;
+            }
         }
     }
 }
