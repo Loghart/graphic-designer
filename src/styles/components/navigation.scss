@@ -1,16 +1,20 @@
-.navigation_svg {
-    margin-top: 47px;
-}
+.navigation_component {
+    margin-bottom: 40px;
 
-.navigation_links {
-    ul {
-        margin-top: 40px;
-        display: flex;
-        justify-content: space-evenly;
-        list-style: none;
-        li {
-            a {
-                color: black;
+    .navigation_svg {
+        margin-top: 47px;
+    }
+
+    .navigation_links {
+        ul {
+            margin-top: 40px;
+            display: flex;
+            justify-content: space-evenly;
+            list-style: none;
+            li {
+                a {
+                    color: black;
+                }
             }
         }
     }
