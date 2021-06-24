@@ -1,8 +1,9 @@
 import * as React from "react";
+import Navigation from "../components/navigation"
 
 const OtherPage = () => {
   return (
-  <div className="test">dupa2</div>
+  <Navigation />
   );
 };
 

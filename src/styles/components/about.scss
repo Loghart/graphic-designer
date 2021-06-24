@@ -1,0 +1,33 @@
+.about_header {
+    p {
+        font-size: 45px;
+        padding-left: 0;
+        margin-bottom: 27px;
+        margin-top: 90px;
+    }
+    .about_line {
+        border-bottom: 2px solid black;
+        margin-bottom: 96px;
+    }
+}
+
+.about_text {
+    p {
+        font-size: 25px;
+    }
+}
+
+.hamburger_header {
+    p {
+        font-size: 25px;
+    }
+}
+
+.about_list {
+    margin-top: 100px;
+    ul {
+        font-size: 17px;
+        display: flex;
+        justify-content: space-between;
+    }
+}

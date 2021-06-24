@@ -1,0 +1,30 @@
+.content_header {
+    p {
+        font-size: 45px;
+        padding-left: 0;
+        margin-bottom: 27px;
+        margin-top: 90px;
+    }
+    .content_line {
+        border-bottom: 2px solid black;
+        margin-bottom: 96px;
+    }
+}
+
+.content_text {
+    font-size: 25px;
+    .text_link {
+        margin-top: 76px;
+        text-decoration: underline;
+        svg {
+            margin-left: 10px;
+            padding-top: 5px;
+        }
+    }
+}
+
+.content_video {
+    iframe {
+        border-radius: 5px;
+    }
+}

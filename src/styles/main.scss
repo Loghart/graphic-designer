@@ -1,3 +1,11 @@
-// components
-@import "components/navigation";
 @import "base";
+
+// components
+
+@import "components/navigation";
+@import "./src/styles/components/hero.scss";
+@import "./src/styles/components/projects.scss";
+@import "./src/styles/components/contentCreation.scss";
+@import "./src/styles/components/about.scss";
+@import "./src/styles/components/opinion.scss";
+@import "./src/styles/components/contact.scss";
