@@ -7,6 +7,7 @@ import About from "../components/about"
 import Opinion from "../components/opinion"
 import Contact from "../components/contact"
 import Blog from "../components/blog"
+import Newsletter from "../components/newsletter"
 
 const IndexPage = () => {
   return (
@@ -19,6 +20,7 @@ const IndexPage = () => {
     <Opinion />
     <Contact />
     <Blog />
+    <Newsletter />
   </div>
   );
 };
