@@ -1,6 +1,6 @@
 import * as React from "react";
 
-const about = () => {
+const About = () => {
   return (
 <div className="container about_component">
     <div className="col-md-12 about_header">
@@ -33,4 +33,4 @@ const about = () => {
   );
 };
 
-export default about;
+export default About;

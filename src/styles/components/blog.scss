@@ -1,0 +1,45 @@
+.blog_header {
+    p {
+        font-size: 30px;
+        text-align: center;
+        margin-bottom: 52px;
+        margin-top: 90px;
+    }
+}
+
+.box {
+    p {
+        padding-top: 20px;
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    .date_box {
+        font-size: 15px;
+        margin-bottom: 0;
+    }
+    .see_box {
+        font-size: 20px;
+        text-decoration: underline;
+        svg {
+            margin-left: 20px;
+        }
+    }
+}
+
+.vl_one {
+    border-left: 2px solid black;
+        height: 218px;
+        position: absolute;
+        left: 383px;
+        margin-left: -3px;
+        top: 0;
+}
+
+.vl_two {
+    border-left: 2px solid black;
+        height: 218px;
+        position: absolute;
+        left: 375px;
+        margin-left: -3px;
+        top: 0;
+}

@@ -1,6 +1,6 @@
 import * as React from "react";
 
-const opinion = () => {
+const Opinion = () => {
   return (
 <div className="container opinion_component">
     <div className="col-md-12 opinion_header">
@@ -32,4 +32,4 @@ const opinion = () => {
   );
 };
 
-export default opinion;
+export default Opinion;

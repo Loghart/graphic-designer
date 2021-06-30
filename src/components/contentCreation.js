@@ -1,6 +1,6 @@
 import * as React from "react";
 
-const content = () => {
+const Content = () => {
   return (
 <div className="container content_component">
     <div className="col-md-12 content_header">
@@ -22,4 +22,4 @@ const content = () => {
   );
 };
 
-export default content;
+export default Content;

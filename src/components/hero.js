@@ -1,7 +1,7 @@
 import * as React from "react";
 import ptok from '/src/images/ptok.jpg';
 
-const hero = () => {
+const Hero = () => {
   return (
 <div className="container hero_component">
     <div className="row">
@@ -14,4 +14,4 @@ const hero = () => {
   );
 };
 
-export default hero;
+export default Hero;

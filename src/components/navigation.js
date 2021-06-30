@@ -24,7 +24,7 @@ const navigationLinks = [
 	},
 ];
 
-const navigation = () => {
+const Navigation = () => {
   return (
 <div className="container navigation_component">
   <nav>
@@ -52,4 +52,4 @@ const navigation = () => {
   );
 };
 
-export default navigation;
+export default Navigation;
