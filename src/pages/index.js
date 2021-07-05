@@ -8,11 +8,12 @@ import Opinion from "../components/opinion"
 import Contact from "../components/contact"
 import Blog from "../components/blog"
 import Newsletter from "../components/newsletter"
+import Footer from "../components/footer"
 
 const IndexPage = () => {
   return (
   <div className="container">
-    <Layout />
+    <Layout>
     <Hero />
     <Projects />
     <Content />
@@ -21,6 +22,7 @@ const IndexPage = () => {
     <Contact />
     <Blog />
     <Newsletter />
+    </Layout>
   </div>
   );
 };

@@ -1,0 +1,21 @@
+.footer_component {
+    margin-bottom: 50px;
+}
+
+.footer_left {
+    display: flex;
+    p {
+        color: #6B7280;
+        margin-top: 10px;
+        margin-left: 40px;
+    }
+}
+
+.svg_container {
+    display: flex;
+    justify-content: flex-end;
+    .svg_last 
+    {
+        margin-left: 30px;
+    }
+}
